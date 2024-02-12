@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+#btn{
+	cursor:pointer;
+}
+#commentShowingTab{
+	border:0.5px solid;
+	margin-top:10px;
+	color:gray;
+	display:none;
+}
